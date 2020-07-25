@@ -3,7 +3,6 @@ def using_concat(array, array1)
 end 
 
 def using_insert(array, new_element)
-  #list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
   array.insert(4, new_element)
 end 
 
